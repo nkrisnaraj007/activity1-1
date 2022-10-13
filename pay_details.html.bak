@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Chinese Cuisine- Pay now</title>
+</head>
+<body bgcolor="#FFF8DC">
+<h1 style="text-align:center; ">Chinese Cuisine</h1>
+<hr width="50%" align="center" color="black">
+<h2 style="color:green; text-align:center; ">Pay now</h2>
+<hr width="25%" align="center" color="black">
+<form id="paymentform" action="/action_page.php" target="_blank" method="post">
+	<fieldset>
+	<legend ><b>Payment Details</b></legend>
+	
+	
+	
+	</fieldset>
+</form>
+<input type="button" name="Submit" />
+</body>
+</html>
